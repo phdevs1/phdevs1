@@ -62,15 +62,7 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 </a>
 </p>
 
-### 🏢 &nbsp;Organización: nestjs-microservices-1  
 
-<p align="center">
-<a href="https://github.com/nestjs-microservices-1">
-  <!-- Stats de la organización -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nestjs-microservices-1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestjs-microservices-1&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 ---
 
 ## 📫 Contacto  
