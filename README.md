@@ -50,13 +50,14 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 
 ---
 
-## 📊 GitHub Stats  
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phdevs1&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phdevs1&theme=radical" width="48%"/>
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
 ---
 
 ## 📫 Contacto  
