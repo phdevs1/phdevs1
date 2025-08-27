@@ -1,4 +1,4 @@
-# 👨‍💻 Pio Moises Huisa Mamani  
+# 👨‍💻 Pio Huisa 
 
 **Back-End Developer | +4 años de experiencia**  
 Apasionado por la creación de soluciones escalables y eficientes, con sólidos conocimientos en **arquitectura hexagonal, RESTful y serverless**.  
@@ -48,41 +48,6 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
   <img src="https://img.icons8.com/color/48/000000/amazon-dynamodb.png" width="40" height="40" alt="DynamoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
 </p>
-
----
-
-## 💼 Experiencia Profesional  
-
-### 🔹 **Back-End Developer – LAKPA (Chile)**  
-*Jun 2022 – May 2025*  
-- Mantenimiento y optimización de sistemas heredados.  
-- Migración progresiva hacia arquitectura **serverless**.  
-- Integración de múltiples **APIs externas** y refactorización de la **base de datos**.  
-- Diseño de servicios RESTful aplicando **arquitectura hexagonal** y principios de clean code.  
-- **Stack:** `Node.js`, `NestJS`, `Django/DRF`, `FastAPI`, `PostgreSQL`, `Docker`, `AWS (S3, SQS, Lambda, DynamoDB, EventBridge)`  
-
----
-
-### 🔹 **Back-End Developer – Inspired Solution (Perú)**  
-*Sep 2020 – Sep 2021*  
-- Desarrollo de APIs y gestión de base de datos.  
-- Documentación y testing de endpoints.  
-- Soporte en despliegues en AWS (EC2, RDS).  
-- **Stack:** `Django/DRF`, `PostgreSQL`, `Docker`, `Pytest`  
-
----
-
-### 🔹 **Full Stack Jr. Developer – TunquiSoft (Perú)**  
-*Ene 2020 – Abr 2020*  
-- Modelado de DB y desarrollo back-end/front-end.  
-- **Stack:** `Django`, `SQLite`, `ReactJS`, `Bootstrap`  
-
----
-
-### 🔹 **Back-End Jr. Developer – Apselom (Perú)**  
-*Feb 2018 – Sep 2019*  
-- Desarrollo de dashboards, integración con Google Maps y front-end con Bootstrap/jQuery.  
-- **Stack:** `Express/Node.js`, `PostgreSQL`, `MongoDB`  
 
 ---
 
