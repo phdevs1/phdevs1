@@ -53,11 +53,22 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/phdevs1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdevs1&show_icons=true&include_all_commits=true&count_private=true&orgs=nombre-de-tu-org&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdevs1&layout=compact&langs_count=8&orgs=nombre-de-tu-org&theme=algolia"/>
-  </a>
+<a href="https://github.com/phdevs1">
+  <!-- Stats de tu usuario -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phdevs1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phdevs1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
+---
+
+### 📂 Proyecto Destacado: [nestjs-microservices-1](https://github.com/nestjs-microservices-1)
+
+<p align="center">
+  <!-- Stats del repo específico -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=phdevs1&repo=nestjs-microservices-1&theme=algolia"/>
+</p>
+
 
 ---
 
