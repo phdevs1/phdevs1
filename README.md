@@ -52,12 +52,22 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+
+## ⚡ GitHub Analytics
+
 <p align="center">
-<a href="https://github.com/phdevs1">
-  <!-- Stats de tu usuario -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phdevs1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phdevs1&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/PioHuisa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdevs1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdevs1&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phdevs1&theme=algolia" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phdevs1&theme=algolia&margin-w=10&margin-h=10"/>
 </p>
 
 ---
