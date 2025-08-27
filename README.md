@@ -62,7 +62,23 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 </a>
 </p>
 
+## 📌 Últimos repositorios
 
+<!-- Repositorios dinámicos -->
+![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=nestjs-microservices-1&repo=client-gateway&theme=radical)
+![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=nestjs-microservices-1&repo=order-ms&theme=radical)
+![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=nestjs-microservices-1&repo=product-microservice&theme=radical)
+
+---
+
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nestjs-microservices-1&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Contribuciones
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestjs-microservices-1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestjs-microservices-1&layout=compact&theme=radical)
 
 ---
 
