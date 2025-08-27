@@ -6,7 +6,6 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 
 📧 [pio.huisa@gmail.com](mailto:pio.huisa@gmail.com)  
 🌐 [GitHub](https://github.com/phdevs1)  
-📱 +51 984494843  
 
 ---
 
@@ -63,5 +62,4 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 ## 📫 Contacto  
 
 📧 **pio.huisa@gmail.com**  
-📱 **+51 984494843**  
 🌐 [GitHub](https://github.com/phdevs1)  
