@@ -1,7 +1,7 @@
-# 👨‍💻 Pio  Huisa   
+# 👨‍💻 Pio Moises Huisa Mamani  
 
-**Back-End & Full Stack Developer | +4 años de experiencia**  
-Apasionado por la creación de soluciones escalables y eficientes, con sólidos conocimientos en **arquitecturas RESTful, serverless y hexagonal**.  
+**Back-End Developer | +4 años de experiencia**  
+Apasionado por la creación de soluciones escalables y eficientes, con sólidos conocimientos en **arquitectura hexagonal, RESTful y serverless**.  
 Proactivo en la adopción de nuevas tecnologías, mejora continua y automatización de procesos.  
 
 📧 [pio.huisa@gmail.com](mailto:pio.huisa@gmail.com)  
@@ -17,13 +17,14 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
 </p>
 
 ### ⚙️ Frameworks & Librerías  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -45,43 +46,8 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-dynamodb.png" width="40" height="40" alt="DynamoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
 </p>
-
----
-
-## 💼 Experiencia  
-
-### **LAKPA (Chile) — Back-End Developer**  
-📆 Jun 2022 – May 2025  
-- Mantenimiento y optimización de sistemas heredados.  
-- Implementación de pruebas unitarias y evolución hacia arquitectura serverless.  
-- Integración de múltiples APIs externas y rediseño de base de datos.  
-- Diseño de servicios RESTful aplicando **Clean Code** y **Arquitectura Hexagonal**.  
-**Tecnologías:** Express/Nodejs, Django/DRF, NestJS, FastApi, PostgreSQL, Docker, AWS (Lambda, S3, SQS, EventBridge, DynamoDB, EC2, CloudWatch).  
-
----
-
-### **Inspired Solution (Perú) — Back-End Developer**  
-📆 Sep 2020 – Sep 2021  
-- Desarrollo de APIs, diseño y gestión de base de datos, testing con Pytest.  
-- Participación en despliegues y soporte al sistema.  
-**Tecnologías:** Django/DRF, PostgreSQL, Docker, AWS (EC2, RDS).  
-
----
-
-### **TunquiSoft (Perú) — Full Stack Junior Developer**  
-📆 Ene 2020 – Abr 2020  
-- Análisis de requerimientos y modelado de la DB.  
-- Desarrollo de back-end y front-end.  
-**Tecnologías:** Django, DRF, SQLite, HTML, CSS, Bootstrap, ReactJS.  
-
----
-
-### **Apselom (Perú) — Back-End Junior Developer**  
-📆 Feb 2018 – Sep 2019  
-- Desarrollo back-end y front-end, integración con Google Maps.  
-- Creación de dashboards y análisis de requerimientos.  
-**Tecnologías:** Node.js, PostgreSQL, MongoDB, Bootstrap, jQuery, Google Maps.  
 
 ---
 
