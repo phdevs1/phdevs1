@@ -62,11 +62,12 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 
 ---
 
-### 📂 Proyecto Destacado: [nestjs-microservices-1](https://github.com/nestjs-microservices-1)
+### 📂 &nbsp;Repo destacado  
 
 <p align="center">
-  <!-- Stats del repo específico -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=phdevs1&repo=nestjs-microservices-1&theme=algolia"/>
+<a href="https://github.com/phdevs1/nestjs-microservices-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phdevs1&repo=nestjs-microservices-1&theme=algolia" />
+</a>
 </p>
 
 
