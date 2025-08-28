@@ -1,11 +1,3 @@
-# 👨‍💻 Pio Huisa 
-
-**Back-End Developer | +4 años de experiencia**  
-Apasionado por la creación de soluciones escalables y eficientes, con sólidos conocimientos en **arquitectura hexagonal, RESTful y serverless**.  
-Proactivo en la adopción de nuevas tecnologías, mejora continua y automatización de procesos.  
-
-📧 [pio.huisa@gmail.com](mailto:pio.huisa@gmail.com)  
-🌐 [GitHub](https://github.com/phdevs1)  
 
 
 	
@@ -13,62 +5,80 @@ Proactivo en la adopción de nuevas tecnologías, mejora continua y automatizaci
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
-
-- :school: Computer Science en la Universidad Católica San Pablo, Arequipa – Perú.
 - :technologist: +4 años de experiencia como Back-End & Full Stack Developer.
 - :computer: Apasionado por crear soluciones escalables y eficientes aplicando arquitectura hexagonal, principios SOLID y clean code.
 - :student: Experiencia en arquitecturas RESTful, serverless y microservicios.
 - :nerd_face: Competitivo y proactivo en la adopción de nuevas tecnologías.
-- :thinking: Siempre en constante aprendizaje.
+- :nerd_face: Siempre en constante aprendizaje.
+- :school: Computer Science en la Universidad Católica San Pablo, Arequipa – Perú.
 
 <br>
 
 ---
 
-## 🚀 Tecnologías & Habilidades  
+## 🛠️ Tecnologías & Habilidades  
 
-### 💻 Lenguajes de Programación  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
-</p>
+### ⚙️ Backend  
+- **JavaScript/TypeScript:** Node.js | NestJS | Express 
+- **Python:** Django (DRF) | FastAPI  
+- **APIs:** REST | GraphQL 
+- **Messaging & Event-Driven:** AWS EventBridge | SQS | SNS | NATS 
 
-### ⚙️ Frameworks & Librerías  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-</p>
+### 🎨 Frontend  
+- **Frameworks & Libraries:** React 
+- **Styling & UI:** TailwindCSS | Bootstrap | Styled Components  
+- **Languages:** TypeScript | JavaScript (ES6+)  
+
 
 ### ☁️ Cloud & DevOps  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
-</p>
+- **Cloud Providers:** AWS 
+- **AWS Services:** Lambda | S3 | API Gateway | DynamoDB | CloudFormation | CloudWatch 
+- **CI/CD:** GitHub Actions 
+- **Containers & Infra:** Docker 
 
-### 🗄️ Bases de Datos  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-dynamodb.png" width="40" height="40" alt="DynamoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
-</p>
+### 🗄️ Databases  
+- **SQL:** PostgreSQL | MySQL | 
+- **NoSQL:** MongoDB  | Redis  | DynamoDB 
+
+### 🔧 Others  
+- **Version Control:** Git | GitHub | GitLab | Bitbucket  
+- **Testing & QA:** Jest | Pytest 
+- **API Design & Documentation:** Swagger / OpenAPI | Postman Collections 
+- **ORMs & Migrations:** Prisma | TypeORM | Sequelize 
+- **Architecture & Design:** Clean Architecture | Hexagonal Architecture   
+- **Monitoring & Observability:** CloudWatch | New Relic
+- **Security:** JWT 
+- **Project Management:** Jira | Trello | Notion 
+
+
+
+### 💻 Tecnologías  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=#092E20)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=FastApi)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![gitlab](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab)
+\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
+![postgresql](https://img.shields.io/badge/postgresql-05122A?style=flat&logo=postgresql&logoColor=white)
+
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
